@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap");
+
+.product {
+  border: 2px solid #95a0a7;
+  border-radius: 8px;
+}
+.product img {
+  /* width: 286px;
+  height: 286px; */
+  border-radius: 8px;
+  padding: 8px;
+}
+.product-description {
+  margin: 10px 20px;
+}
+.product h6 {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  /* font-size: 16px; */
+  line-height: 25px;
+  letter-spacing: 0.0015em;
+}
